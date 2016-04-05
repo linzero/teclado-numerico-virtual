@@ -4,7 +4,7 @@
 * Requiere
 
 ```html
-   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="css/virtual-key.css">
 ```
 * JQuery
