@@ -52,6 +52,8 @@
 		</tr>
 	</table>
 ```
+* Ver <a href="http://rawgit.com/linzero/teclado-numerico-virtual/master/index.html">DEMO</a>
 
-
+* Autores y contribuidores
+@linzero
 
