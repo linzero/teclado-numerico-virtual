@@ -1,14 +1,14 @@
 # teclado-numerico-virtual
 
 1. Uso
-..* Requiere
+* Requiere
 
 ```html
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="js/virtual-key.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/virtual-key.css">
 ```
-..* JQuery
+* JQuery
 ```JavaScript
   $(document).ready(function(){
 	$('.table_teclado tr td').click(function(){
@@ -26,7 +26,7 @@
 	});
 });
 ```
-..* HTML
+* HTML
 ```html
   <input type="text" readonly id="campo" class="teclado_text"> 
 
