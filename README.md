@@ -1,6 +1,6 @@
 # teclado-numerico-virtual
 
-1. Uso
+## Uso
 * Requiere
 
 ```html
